@@ -92,10 +92,8 @@ grid on;
 ---
 
 ## 📊 Output Plot
-(Stored in `results/output_plot.png`)
 
-Add your screenshot here:
-![Output Plot] <img width="1736" height="1046" alt="Lab4_PD_Position_Response2" src="https://github.com/user-attachments/assets/0d18845a-bf53-47b7-8b06-606717b12766" />
+<img width="1736" height="1046" alt="Lab4_PD_Position_Response2" src="https://github.com/user-attachments/assets/0d18845a-bf53-47b7-8b06-606717b12766" />
 
 
 ---

@@ -95,15 +95,13 @@ grid on;
 (Stored in `results/output_plot.png`)
 
 Add your screenshot here:
-![Output Plot](results/output_plot.png)
+![Output Plot] <img width="1736" height="1046" alt="Lab4_PD_Position_Response2" src="https://github.com/user-attachments/assets/0d18845a-bf53-47b7-8b06-606717b12766" />
+
 
 ---
 
 ## 🎥 Demonstration Video
-- **YouTube:** https://youtu.be/6ds6q28OhKU  
-- **Google Drive Folder:** https://drive.google.com/drive/folders/1leld46axK6h-qP7StnUipQ6wVBG2sNhe?usp=sharing
-
----
+- **Google Drive Folder:** https://drive.google.com/drive/folders/12fN4H_ZdaTMknls4Ac_HjabLGKm6GTJe?usp=sharing
 
 ## 🧩 Key Learnings
 - Importance of **time constant** and **gain** in first-order systems  
